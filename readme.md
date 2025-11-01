@@ -25,7 +25,7 @@ Para que ambos contenedores se comuniquen correctamente, se requiere crear una *
 ---
 
 ## 4. Conocimientos previos
-El estudiante debe conocer:
+Para esta practica se debe conocer:
 - Comandos básicos de Docker (`docker run`, `docker ps`, `docker network`, `docker exec`).
 - Conceptos básicos de bases de datos MySQL.
 - Uso de navegadores web para acceder a `localhost`.
