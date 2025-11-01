@@ -1,4 +1,4 @@
-# 🧩 Práctica TAS4 - Red de contenedores MySQL y phpMyAdmin
+# Práctica TAS4 - Red de contenedores MySQL y phpMyAdmin
 
 ## 1. Título
 Red de contenedores con MySQL y phpMyAdmin usando Docker.
