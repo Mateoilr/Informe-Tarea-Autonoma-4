@@ -17,7 +17,7 @@ En esta práctica se trabajó con **dos contenedores principales**: uno para **M
 Para que ambos contenedores se comuniquen correctamente, se requiere crear una **red personalizada** dentro de Docker. Esto permite que los contenedores puedan identificarse por nombre en lugar de direcciones IP, mejorando la organización y el aislamiento del entorno.
 
 
-### 🔹 Conceptos importantes:
+### Conceptos importantes:
 - **Red de Docker:** Permite la comunicación entre contenedores sin exponer puertos innecesarios al exterior.
 - **Variables de entorno (-e):** Se usan para definir contraseñas, usuarios y configuraciones al crear un contenedor.
 - **Puertos (-p):** Permiten acceder desde el host al servicio dentro del contenedor.
